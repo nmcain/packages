@@ -4,7 +4,7 @@
     {
       "id": "com.noah.helloWorld",
       "altName": "helloworld",
-      "version": 1,
+      "version": 1.0,
       "realName": "Hello World",
       "description": "Command Line demonstration of the DAP package format",
       "architecture": "none"
@@ -12,7 +12,7 @@
     {
       "id": "dev.flutter.demo",
       "altName": "flutterdemo",
-      "version": 1,
+      "version": 1.0,
       "realName": "Flutter Demo",
       "description": "Simple demonstration of the Flutter platform",
       "architecture": "x64"
