@@ -8,7 +8,7 @@
       "version": "1.0-alpha",
       "description": "Command Line demonstration of the DAP package format",
       "hash": "853e1a04a50971909394c2b7213cd841",
-      "architecture": "aarch64"
+      "architecture": "none"
     },
     {
       "id": "dev.flutter.demo",
